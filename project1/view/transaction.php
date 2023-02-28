@@ -71,7 +71,6 @@
             <tr>
                 <th colspan="3">Total Income:</th>
                 <td>
-                    <p style="">$</p>
                     <?= $total['Income'] ?>
                 </td>
             </tr>
